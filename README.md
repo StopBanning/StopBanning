@@ -4,7 +4,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://toaster.locust.lol"><img src="assets/toaster.webp" alt="Toaster writing Alice Deejay's Better Off Alone out as live code, its handheld playing along" width="100%"></a>
+<a href="https://toaster.locust.lol"><img src="assets/toaster.webp" alt="Toaster writing Alice Deejay's Better Off Alone out as live code, the sharks circling behind it" width="100%"></a>
 
 ### [Toaster](https://github.com/StopBanning/toaster)
 
